@@ -1,4 +1,4 @@
-# SPARKS-GRIP--Task2
+# SPARKS-GRIP--Task2 (DATA SCIENCE & BUISNESS ANALYTICS TASKS)
 
 ## IRIS Dataset analysis
 
